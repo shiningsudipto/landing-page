@@ -1,0 +1,23 @@
+body {
+    font-family: 'Fira Code';
+    background-color: #000249;
+    color: white !important;
+}
+
+.icons a i {
+    font-size: 18px;
+    display: inline-block;
+    border-radius: 50px;
+    box-shadow: 0 0 2px #888;
+    padding: 10px;
+    color: #000249;
+    background-color: #888;
+
+
+}
+
+.icons a i:hover {
+    background-color: #000249;
+    color: white;
+    transition: 1s;
+}
